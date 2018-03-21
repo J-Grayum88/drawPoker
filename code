@@ -199,7 +199,7 @@ char getRank(int rank)
     case 8:
         return ('9');
     case 9:
-        return ('10');
+        return ('T');
     case 10:
         return ('J');
     case 11:
